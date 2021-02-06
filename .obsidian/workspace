@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "5a92539ced569805",
+    "type": "split",
+    "children": [
+      {
+        "id": "d57652aa33b28fc5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tools and Commands/ss.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bf1fa73285b39b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "87cdcbafc3442e1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7524a7580cf7e727",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a207f36f4e377ab7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c87e692b74e18e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ac7c24bfe79d634",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9764b4486b6ae543",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tools and Commands/ss.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Tools and Commands/ss.md",
+    "Reverse SSH port forwarding.md",
+    "Jhon The Ripper hash cracking.md",
+    "Untitled.md"
+  ]
+}
