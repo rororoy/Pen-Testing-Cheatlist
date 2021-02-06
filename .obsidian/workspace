@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tools and Commands/ss.md",
-            "mode": "preview"
+            "file": "Tools and Commands/SQL Map.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools and Commands/ss.md",
+                "file": "Tools and Commands/SQL Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +86,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "Tools and Commands/Jhon The Ripper hash cracking.md",
     "Tools and Commands/ss.md",
     "Reverse SSH port forwarding.md",
-    "Jhon The Ripper hash cracking.md",
-    "Untitled.md"
+    "Jhon The Ripper hash cracking.md"
   ]
 }
