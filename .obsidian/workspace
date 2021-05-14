@@ -6,11 +6,10 @@
       {
         "id": "d57652aa33b28fc5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Links.md",
+            "file": "Tools and Commands/pwncat.md",
             "mode": "source"
           }
         }
@@ -40,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "os",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links.md",
+                "file": "Tools and Commands/pwncat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "d57652aa33b28fc5",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Privilege Escalation/Untitled.md",
-    "Tools and Commands/Hashcat.md",
-    "Reverse SSH port forwarding.md",
-    "Tools and Commands/SQL Map.md",
-    "Python reverse shell.md",
-    "SMB.md",
-    "Tools and Commands/GoBuster.md",
+    "Tools and Commands/Untitled.md",
+    "OSINT/Tools.md",
+    "OSINT/Untitled.md",
     "Tools and Commands/Jhon The Ripper hash cracking.md",
-    "Tools and Commands/ss.md"
+    "Tools and Commands/mysql.md",
+    "Tools and Commands/SQL Map.md",
+    "Tools and Commands/SSH2John.md",
+    "Shell stabilization.md",
+    "Tools and Commands/SSH-KEYGEN.md",
+    "Reverse Shells/Reverse SSH port forwarding.md"
   ]
 }

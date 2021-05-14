@@ -5,3 +5,4 @@ john hash.txt --wordlist=/usr/share/wordlists/rockyou.txt --format=Raw-SHA256
 ```
 
 HashCat is a newer version of a hash cracker.
+

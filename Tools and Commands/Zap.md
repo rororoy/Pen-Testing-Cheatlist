@@ -1,0 +1,1 @@
+Can be used for fuzzing of credentials. After caputuring a request right click on it > attack > fuzz. Select a field to fuzz and then a wordlist.

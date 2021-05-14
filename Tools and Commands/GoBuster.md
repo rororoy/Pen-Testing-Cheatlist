@@ -8,3 +8,8 @@ Basic directory enum command
 **-x** specify extension.
 **-c** specify a cookie.
 
+DNS subdomain enumeration:
+```
+gobuster dns -d <domain> -w ~/Documents/basics/subdomains-10000.txt -i
+```
+
